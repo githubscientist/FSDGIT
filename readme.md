@@ -27,3 +27,10 @@
 ### Scenario 2
 
 - You are working on a project with multiple developers.
+
+### Features List:
+
+- [x] Create a new repository on GitHub.
+- [x] Add a remote repository to your local git repository.
+- [x] Push your code to the remote repository.
+- [x] Collaborate with other developers on the project.
