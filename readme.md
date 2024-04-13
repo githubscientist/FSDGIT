@@ -23,3 +23,7 @@
 1. Create a new project folder on your local machine.
 2. Create a readme.md file in the project folder and add some details about the project.
 3. Initialize a git repository in the project folder using the `git init` command.
+
+### Scenario 2
+
+- You are working on a project with multiple developers.
